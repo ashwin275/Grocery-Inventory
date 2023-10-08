@@ -139,7 +139,7 @@ function Home() {
               ))}
               <tr>
                 <th scope="row">#</th>
-                <td colspan="4">Total Price</td>
+                <td colSpan="4">Total Price</td>
                 <td>{sum}</td>
               </tr>
             </tbody>
