@@ -1,0 +1,31 @@
+.Container-Home{
+    
+    margin-top: 20px;
+}
+
+.header-wrapper{
+   
+    max-width: 1280px;
+  
+   
+    padding: 10px;
+}
+
+.font-basket-empty{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+}
+.header{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    
+}
+.err-msg{
+    font-weight: 600;
+    color: red;
+    margin-left: 30px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: small;
+}

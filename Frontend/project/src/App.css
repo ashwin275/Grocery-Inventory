@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+.navbar{
+  background: rgb(247,255,255);
+  background: linear-gradient(90deg, rgba(247,255,255,1) 0%, rgba(247,255,250,1) 7%, rgba(231,250,224,1) 100%, rgba(177,191,178,1) 100%, rgba(163,176,166,1) 100%, rgba(231,220,97,1) 100%);
+}
+.container{
+  background-color: rgb(221, 239, 224) ;
+  padding: 20px;
+}
